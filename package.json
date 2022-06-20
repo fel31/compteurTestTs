@@ -1,0 +1,19 @@
+{
+  "name": "compteurtestts",
+  "version": "1.0.0",
+  "description": "compteur test ts sass html bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "souad",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.52.3"
+  }
+}
